@@ -26,12 +26,19 @@ Activating Green Dot Card via Mobile App
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You can activate the card using the Green Dot app.
+
 1. Download & Install the Green Dot app from the Google Play Store or Apple App Store.
+
 2. Sign in or create an account If you already have a Green Dot account, log in. If not, sign up with your email.
+
 3. Press Activate a New Card You will see this option on the home screen.
+
 4. Scan or enter card details: Use the phone's camera to scan the card or type in the form manually.
+
 5. Set up a PIN for security.
+
 6. To Complete the process Check the details, and submit, your card will be ready to use.
+
 
 
 
