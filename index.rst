@@ -1,4 +1,4 @@
-green dot .com/activate
+Activate Green Dot Card - green dot .com/activate
 ===============
 
 green dot .com/activate The official website to activate your Green Dot card. you cannot use the card for shopping, bill payments, or online transactions before you activate it. Here are easy instructions to activate your card and its benefits.
@@ -6,12 +6,12 @@ green dot .com/activate The official website to activate your Green Dot card. yo
 
 .. image:: get.png
    :alt: green dot .com/activate
-   :target: 
+   :target: https://ww0.us/?aHR0cHM6Ly9ncmVlbmRvdGNvbWFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
 
 
 How to Activate Green Dot Card Online
-================================
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Activating your Green Dot card, Simply visit green dot .com/activate and follow steps to activate your card online.
 
