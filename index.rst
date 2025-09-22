@@ -6,7 +6,7 @@ Activate Green Dot Card - green dot .com/activate
 
 .. image:: get.png
    :alt: green dot .com/activate
-   :target: https://ww0.us/?aHR0cHM6Ly9ncmVlbmRvdGNvbWFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://link72.com/?EakxeVBg7GbEX1YztrVAArx3iHl9uPYvzly86sH8hZ9aVyikKylU0ZcVag9f9ILJWVo8iC
 
 
 
